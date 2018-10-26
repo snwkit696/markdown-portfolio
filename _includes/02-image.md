@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![picture of a snowcat]https://cdn2-www.cattime.com/assets/uploads/gallery/snowman-cats/snowman-cats-2.jpg
