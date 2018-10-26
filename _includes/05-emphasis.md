@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Loves to learn new code and programs**
+**Current knowlege**
+  *Python*
+  *Keras*
+  *Tensorflow*
+  *sckit*
+_**Areas** of study-
+  * Machine Learning
+  * Deep Learning
+  * Data analysis
